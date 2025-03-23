@@ -337,7 +337,7 @@ const AuthForm: React.FC = () => {
                       </SelectTrigger>
                       <SelectContent className="w-full max-h-40 overflow-auto">
                         <SelectItem value="doctor">Doctor</SelectItem>
-                        <SelectItem value="patient">Patient</SelectItem>
+                        <SelectItem value="user">Patient</SelectItem>
                         {/* <SelectItem value="admin">Admin</SelectItem> */}
                       </SelectContent>
                     </Select>
